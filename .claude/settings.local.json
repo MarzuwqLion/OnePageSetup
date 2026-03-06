@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(vercel:*)",
+      "Bash(npx vercel:*)",
+      "Bash(npx tsc:*)",
+      "WebSearch",
+      "WebFetch(domain:www.apple.com)",
+      "WebFetch(domain:www.gsmarena.com)",
+      "WebFetch(domain:store.storeimages.cdn-apple.com)",
+      "Bash(curl:*)",
+      "WebFetch(domain:v3b.fal.media)"
+    ]
+  }
+}
